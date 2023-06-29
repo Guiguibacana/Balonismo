@@ -31,10 +31,6 @@
             private Balao balao;
             private TermoCiencia termoCiencia;
             private double valorVoo;
-
-
-
-
         }
     }
 
