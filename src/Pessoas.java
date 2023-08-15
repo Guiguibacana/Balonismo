@@ -17,20 +17,20 @@
         }
 
         public class Balao {
-            private String numeroIdentificacao;
-            private String registroRegularidade;
+            public String numeroIdentificacao;
+            public String registroRegularidade;
         }
 
         public class TermoCiencia {
-            private Pessoa pessoa;
+            public Pessoa pessoa;
 
         }
 
         public class VooBalao {
-            private Piloto piloto;
-            private Balao balao;
-            private TermoCiencia termoCiencia;
-            private double valorVoo;
+            public Piloto piloto;
+            public Balao balao;
+            public TermoCiencia termoCiencia;
+            public double valorVoo;
         }
     }
 
